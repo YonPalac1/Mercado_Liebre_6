@@ -186,7 +186,6 @@ footer article i:hover {
 footer article {
     display: inline-flex;
     flex-direction: column;
-    width: 300px;
     margin: 50px 30px;    
 }
 footer article h2 {
@@ -198,11 +197,15 @@ footer article h2 {
 footer article  p {
     margin-top: 0;
     padding-top: 0;
-    
+    max-width: 310px;
     font-size: 10px;
     color: var(--Gris-oscuro);
 }
-
+footer p {
+    max-width: 310px;
+    margin: auto;
+    text-align: center;
+}
 /* MEDIA */
 
 /* NAVEGACION DE TABLET */
