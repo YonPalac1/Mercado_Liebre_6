@@ -1,4 +1,4 @@
-# Mercado Liebre 3 - Practica integradora / Digital House
+# Mercado Liebre 6 - Practica integradora / Digital House
 ## Organizando elementos
 - <a href="https://github.com/YonPalac1/Mercado_Liebre_1">Mercado Liebre 1</a><br/>
 - <a href="https://github.com/YonPalac1/Mercado_Liebre_2">Mercado Liebre 2</a><br/>
